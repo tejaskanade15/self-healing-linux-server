@@ -168,6 +168,19 @@ Import Dashboard: **Node Exporter Full (ID: 1860)**
 
 ---
 
+## 📊 Dashboard Screenshots
+
+### 🔹 Grafana Monitoring Dashboard
+![Grafana Dashboard](screenshots/1-grafana-dashboard.png)
+
+### 🔹 Node Exporter Running
+![Node Exporter](screenshots/2-node-exporter.png)
+
+### 🔹 Prometheus Interface
+![Prometheus UI](screenshots/3-prometheus-ui.png)
+
+---
+
 ## 📩 Alert System
 
 The system sends alerts via:
