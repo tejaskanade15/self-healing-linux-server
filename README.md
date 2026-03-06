@@ -214,7 +214,7 @@ The Self-Healing Linux Server enhances reliability and operational efficiency in
 
 **Tejas Kanade**  
 **Omkar Ghongde**  
-**Saiprasad Godge**  
+**Godge Saiprasad**  
 
 B.Tech CSE  
 Major Project – Self Healing Linux Server
