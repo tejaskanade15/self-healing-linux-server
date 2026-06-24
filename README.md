@@ -1,5 +1,11 @@
 # 🚀 Self-Healing Linux Server
 
+![Linux](https://img.shields.io/badge/Linux-RHEL-red?logo=redhat)
+![Bash](https://img.shields.io/badge/Bash-Scripting-green?logo=gnu-bash)
+![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-orange?logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-Dashboard-F46800?logo=grafana)
+![License](https://img.shields.io/badge/License-MIT-blue)
+
 ## 📖 Project Overview
 
 The **Self-Healing Linux Server** is an automated monitoring and recovery system built using Bash scripting.  
@@ -32,6 +38,19 @@ For real-time monitoring and visualization.
 - Visualize system metrics
 - Improve system reliability
 
+---
+## ✨ Features
+
+- Automated service health monitoring
+- Automatic service recovery
+- Disk usage monitoring
+- Telegram alerts
+- Email notifications
+- Logging of all recovery events
+- Prometheus metrics collection
+- Grafana dashboard visualization
+- Modular Bash scripts
+- Cron-based scheduling
 ---
 
 ## 🛠 Technologies Used
@@ -193,6 +212,15 @@ The system sends alerts via:
 - Disk usage exceeds defined threshold  
 - A monitored service stops running  
 
+---
+## 🚀 Future Improvements
+
+- Slack and Discord alerts
+- SMS notifications
+- Docker container monitoring
+- Web dashboard
+- AI-based failure prediction
+- Automatic backup before recovery
 ---
 
 ## 📌 Conclusion
