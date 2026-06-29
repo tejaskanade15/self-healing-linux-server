@@ -198,6 +198,12 @@ Import Dashboard: **Node Exporter Full (ID: 1860)**
 ### 🔹 Prometheus Interface
 ![Prometheus UI](screenshots/3-prometheus-ui.png)
 
+### 🔹 Telegram Alert
+![Telegram Alert](screenshots/Telegram_Alert.jpeg)
+
+### 🔹 Email Alert
+![Email Alert](screenshots/Email_Alert.jpeg)
+
 ---
 
 ## 📩 Alert System
