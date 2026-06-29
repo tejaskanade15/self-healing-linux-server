@@ -8,11 +8,11 @@
 THRESHOLD=80
 
 # Email Recipient
-EMAIL="tejaskanade80@gmail.com"
+EMAIL="YOUR_EMAIL"
 
 # Telegram Bot
-TOKEN="8672704932:AAHtECf7TpwQDUruiHgad9r3_bcjuA5BqN8"
-CHAT_ID="1470013672"
+TOKEN="YOUR_TELEGRAM_TOKEN"
+CHAT_ID="YOUR_CHAT_ID"
 
 # Host Information
 HOST=$(hostname)
